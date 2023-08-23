@@ -20,3 +20,8 @@ all contract ethers to that account address.
    ![image](https://github.com/mkbhru/lottery-system-dapp/assets/74449664/99ef4759-e619-498c-a1da-c2ad342d0699)
 
 3. After participants have done there txns. manager will execute the selectWinner() which will automatically transfer all contract ethers to a random participant.
+![image](https://github.com/mkbhru/lottery-system-dapp/assets/74449664/5ec1c74f-450e-4a21-9bc6-b8ac133c673d)
+
+link to the contract to winner txn on sepoli.etherscan.io 
+https://sepolia.etherscan.io/tx/0xad889df9de30699ba7ce24f13bf66beaf9d6705ad17664b6788224c4bd80d017
+![image](https://github.com/mkbhru/lottery-system-dapp/assets/74449664/cc29632c-8f25-4dd4-8092-4167c4a60499)
